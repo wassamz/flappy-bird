@@ -1,3 +1,6 @@
+# Flappy Bird Game on Microbit
+* Avoid obstacles to increase your score
+* Game gets progressively harder
 
 > Open this page at [https://wassamz.github.io/flappy-bird/](https://wassamz.github.io/flappy-bird/)
 
